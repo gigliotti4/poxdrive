@@ -1,0 +1,292 @@
+[06-Jun-2024 12:46:25 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_130035_create_colores_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_130035_create_colores_table.php on line 7
+[06-Jun-2024 12:46:25 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_03_29_030301_create_empresas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_03_29_030301_create_empresas_table.php on line 7
+[06-Jun-2024 12:46:43 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[06-Jun-2024 12:46:43 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[06-Jun-2024 12:48:41 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_11_06_130520_create_inicios_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_11_06_130520_create_inicios_table.php on line 7
+[15-Jun-2024 11:54:55 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_130035_create_colores_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_130035_create_colores_table.php on line 7
+[15-Jun-2024 13:08:36 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_11_06_130520_create_inicios_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_11_06_130520_create_inicios_table.php on line 7
+[15-Jun-2024 13:49:26 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2023_03_03_190225_create_familias_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2023_03_03_190225_create_familias_table.php on line 7
+[15-Jun-2024 14:07:47 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[20-Jun-2024 04:47:56 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_213622_create_subcategorias_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_213622_create_subcategorias_table.php on line 7
+[20-Jun-2024 06:50:04 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[20-Jun-2024 11:25:12 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_21_145100_create_redes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_21_145100_create_redes_table.php on line 7
+[20-Jun-2024 15:21:36 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_194608_create_logos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_194608_create_logos_table.php on line 7
+[20-Jun-2024 16:12:35 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_135140_create_usos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_135140_create_usos_table.php on line 7
+[20-Jun-2024 21:37:04 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2023_06_27_124505_create_prelacionados_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2023_06_27_124505_create_prelacionados_table.php on line 7
+[20-Jun-2024 22:54:55 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_06_07_142410_create_sliders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_06_07_142410_create_sliders_table.php on line 7
+[20-Jun-2024 23:34:24 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_163844_create_distribuidores_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_163844_create_distribuidores_table.php on line 7
+[21-Jun-2024 03:03:50 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_21_215046_create_subcriptores_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_21_215046_create_subcriptores_table.php on line 7
+[21-Jun-2024 11:03:37 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[21-Jun-2024 11:56:41 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_130035_create_colores_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_130035_create_colores_table.php on line 7
+[21-Jun-2024 15:15:22 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2023_03_03_190225_create_familias_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2023_03_03_190225_create_familias_table.php on line 7
+[21-Jun-2024 16:31:31 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_30_181401_create_novedads_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_30_181401_create_novedads_table.php on line 7
+[21-Jun-2024 21:34:26 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_12_170534_create_items_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_12_170534_create_items_table.php on line 7
+[21-Jun-2024 22:06:12 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_29_191337_create_categoria_novedades_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_29_191337_create_categoria_novedades_table.php on line 7
+[21-Jun-2024 23:13:40 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_150726_create_contactos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_150726_create_contactos_table.php on line 7
+[22-Jun-2024 00:35:48 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[22-Jun-2024 00:37:39 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_08_20_170900_create_categorias_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_08_20_170900_create_categorias_table.php on line 7
+[22-Jun-2024 00:44:23 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_08_20_173946_create_productos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_08_20_173946_create_productos_table.php on line 7
+[22-Jun-2024 02:33:39 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_05_03_123440_create_metadatos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_05_03_123440_create_metadatos_table.php on line 7
+[22-Jun-2024 06:25:05 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_11_06_130520_create_inicios_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_11_06_130520_create_inicios_table.php on line 7
+[22-Jun-2024 11:47:15 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_03_29_030301_create_empresas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_03_29_030301_create_empresas_table.php on line 7
+[22-Jun-2024 13:38:11 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[22-Jun-2024 17:23:11 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_135140_create_usos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_135140_create_usos_table.php on line 7
+[22-Jun-2024 21:05:53 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_150726_create_contactos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_150726_create_contactos_table.php on line 7
+[23-Jun-2024 19:49:57 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_21_215046_create_subcriptores_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_21_215046_create_subcriptores_table.php on line 7
+[28-Jun-2024 22:07:33 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[30-Jun-2024 18:29:47 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_08_20_173946_create_productos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_08_20_173946_create_productos_table.php on line 7
+[05-Jul-2024 05:08:35 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_12_170534_create_items_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_12_170534_create_items_table.php on line 7
+[05-Jul-2024 05:08:39 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_21_145100_create_redes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_21_145100_create_redes_table.php on line 7
+[05-Jul-2024 05:08:44 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_194608_create_logos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_194608_create_logos_table.php on line 7
+[05-Jul-2024 05:08:47 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[05-Jul-2024 05:08:51 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_135140_create_usos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_135140_create_usos_table.php on line 7
+[05-Jul-2024 05:08:55 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_130035_create_colores_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_130035_create_colores_table.php on line 7
+[05-Jul-2024 05:09:03 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_11_06_130520_create_inicios_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_11_06_130520_create_inicios_table.php on line 7
+[05-Jul-2024 05:09:11 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_08_20_170900_create_categorias_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_08_20_170900_create_categorias_table.php on line 7
+[05-Jul-2024 05:09:15 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_06_07_142410_create_sliders_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_06_07_142410_create_sliders_table.php on line 7
+[05-Jul-2024 05:09:19 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_150726_create_contactos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_150726_create_contactos_table.php on line 7
+[05-Jul-2024 05:09:23 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_03_29_030301_create_empresas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_03_29_030301_create_empresas_table.php on line 7
+[05-Jul-2024 05:09:27 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_30_181401_create_novedads_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_30_181401_create_novedads_table.php on line 7
+[05-Jul-2024 05:09:31 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_05_03_123440_create_metadatos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_05_03_123440_create_metadatos_table.php on line 7
+[05-Jul-2024 05:09:39 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2023_06_27_124505_create_prelacionados_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2023_06_27_124505_create_prelacionados_table.php on line 7
+[05-Jul-2024 05:09:47 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[05-Jul-2024 05:09:51 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_163844_create_distribuidores_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_163844_create_distribuidores_table.php on line 7
+[05-Jul-2024 05:09:55 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[05-Jul-2024 05:09:59 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_29_191337_create_categoria_novedades_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_29_191337_create_categoria_novedades_table.php on line 7
+[05-Jul-2024 05:10:03 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php on line 7
+[08-Jul-2024 06:02:01 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[08-Jul-2024 11:08:31 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_05_03_123440_create_metadatos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2019_05_03_123440_create_metadatos_table.php on line 7
+[08-Jul-2024 20:12:01 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_194608_create_logos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_194608_create_logos_table.php on line 7
+[10-Jul-2024 18:15:52 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_12_170534_create_items_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_12_170534_create_items_table.php on line 7
+[11-Jul-2024 07:31:32 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_08_20_170900_create_categorias_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_08_20_170900_create_categorias_table.php on line 7
+[11-Jul-2024 12:49:16 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_150726_create_contactos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_150726_create_contactos_table.php on line 7
+[12-Jul-2024 04:16:42 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_163844_create_distribuidores_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_163844_create_distribuidores_table.php on line 7
+[12-Jul-2024 11:59:05 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_30_181401_create_novedads_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2020_09_30_181401_create_novedads_table.php on line 7
+[13-Jul-2024 04:28:51 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_194608_create_logos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_12_194608_create_logos_table.php on line 7
+[13-Jul-2024 12:28:40 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_21_145100_create_redes_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_04_21_145100_create_redes_table.php on line 7
+[13-Jul-2024 14:54:11 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2023_06_27_124505_create_prelacionados_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2023_06_27_124505_create_prelacionados_table.php on line 7
+[13-Jul-2024 15:32:51 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_130035_create_colores_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_130035_create_colores_table.php on line 7
+[14-Jul-2024 02:23:43 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_03_29_030301_create_empresas_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2021_03_29_030301_create_empresas_table.php on line 7
+[15-Jul-2024 09:52:57 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_213622_create_subcategorias_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_213622_create_subcategorias_table.php on line 7
+[15-Jul-2024 12:21:21 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[16-Jul-2024 10:23:52 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_213622_create_subcategorias_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_213622_create_subcategorias_table.php on line 7
+[17-Jul-2024 10:23:06 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_213622_create_subcategorias_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/migrations/2024_04_10_213622_create_subcategorias_table.php on line 7

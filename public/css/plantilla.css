@@ -1,0 +1,196 @@
+body
+{
+    margin: 0px !important;
+    font-family: 'Roboto', sans-serif, sans-serif;  
+}
+
+#app {
+    overflow: hidden;
+}
+
+/*HEADER*/
+.fondoheader{
+    background-color: #F1CE00;
+    height: 35px;
+    line-height: 50px;
+}
+
+.btn{
+    border-radius: 0 !important;
+    transition: all 0.5s ease-out;
+}
+a{
+    transition: all 0.5s ease-out;
+}
+.container{
+    	max-width:1260px !important;
+    }
+    	
+     .header__enlace{
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        
+        /* Negro */
+        
+        color: #020202 !important;
+     }  
+     .header__enlace:hover{
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        
+        /* Negro */
+        
+        color: #F1CE00 !important;
+     }   
+
+    
+
+
+    .activeheader{
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: capitalize;
+
+        color: #F1CE00;
+        
+    }
+    .activeheader:hover{
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: capitalize;
+
+        color: #F1CE00;
+        
+    }
+
+
+
+
+    /*footer*/
+
+    .input-wrapper {
+        position: relative;
+        display: inline-block;
+        width: 70%;
+      }
+    
+      .input-wrapper input[type="text"] {
+        padding-right: 30px; /* Espacio para la flecha */
+        height: 40px; /* Altura del input */
+        line-height: 40px; /* Centrar texto verticalmente */
+        border: 1px solid #ccc; /* Borde del input */
+        border-radius: 5px; /* Bordes redondeados */
+        padding-left: 10px; /* Espacio interior izquierdo */
+      }
+    
+      .input-wrapper .fa-arrow-right {
+        position: absolute;
+        right: 10px; /* Posición horizontal de la flecha dentro del input */
+        top: 50%; /* Centrar la flecha verticalmente */
+        transform: translateY(-50%); /* Ajuste fino de la posición vertical */
+        font-size: 20px; /* Tamaño de la flecha */
+        color: #B40C17; /* Color de la flecha */
+        pointer-events: none; /* Evita que la flecha interfiera con el input */
+      }
+    
+    .fondofooter{
+        
+        height: 50px;
+    }
+ 
+    .fondofooterseccion{
+        
+       background-color: #000;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+       
+        
+    }
+    .footer__titulo{
+        font-family: 'Roboto', sans-serif;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        
+        color: #fff;
+
+    }
+    .footer__secciones{
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: normal;
+        /* identical to box height */
+        text-decoration: none;
+        color: #fff;
+        
+        
+    }
+    .footer__secciones:hover{
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: normal;
+       
+        
+        
+        color: #F1CE00;
+       
+    }
+
+    
+
+    .form-control::placeholder{
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 45px;
+        /* identical to box height, or 375% */
+        
+        
+        /* Gris */
+        
+        color: #726F6D;
+    }
+
+    .input-group-text{
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 40px;
+        color:#D80007;
+    } 
+
+
+
+    .whatsapp {
+        position: fixed;
+        width: 60px;
+        height: 60px;
+        bottom: 40px;
+        right: 40px;
+        background-color: #25d366;
+        color: #FFF !important;
+        border-radius: 50px;
+        text-align: center;
+        font-size: 30px;
+        z-index: 100;
+    }

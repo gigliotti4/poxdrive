@@ -1,0 +1,16 @@
+[20-Jun-2024 22:30:22 America/Santiago] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/d2osolecom/public_html/poxdrive/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/tests/Unit/ExampleTest.php on line 7
+[08-Jul-2024 04:16:00 America/Santiago] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/d2osolecom/public_html/poxdrive/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/tests/Unit/ExampleTest.php on line 7
+[08-Jul-2024 06:13:27 America/Santiago] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/d2osolecom/public_html/poxdrive/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/tests/Unit/ExampleTest.php on line 7
+[08-Jul-2024 06:17:04 America/Santiago] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/d2osolecom/public_html/poxdrive/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/tests/Unit/ExampleTest.php on line 7

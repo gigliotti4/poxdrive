@@ -1,0 +1,8 @@
+[15-Jun-2024 12:34:49 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/d2osolecom/public_html/poxdrive/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/seeders/DatabaseSeeder.php on line 7
+[21-Jun-2024 15:13:21 America/Santiago] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/d2osolecom/public_html/poxdrive/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/d2osolecom/public_html/poxdrive/database/seeders/DatabaseSeeder.php on line 7

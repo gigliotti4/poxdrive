@@ -1,0 +1,2 @@
+[21-Jun-2024 04:25:42 America/Santiago] PHP Warning:  Undefined variable $items in /home/d2osolecom/public_html/poxdrive/resources/views/adm/items/editar.blade.php on line 78
+[21-Jun-2024 04:25:42 America/Santiago] PHP Warning:  Attempt to read property "galeria" on null in /home/d2osolecom/public_html/poxdrive/resources/views/adm/items/editar.blade.php on line 78
