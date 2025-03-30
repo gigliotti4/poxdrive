@@ -320,3 +320,13 @@ Route::group(['middleware' => 'auth'], function() {
       return back()->with('success', 'Gracias por comunicarte, te responderemos muy pronto!');
 
  })->name('enviarmail');
+
+
+// Rutas de Sitemap
+Route::get('/sitemap.xml', [App\Http\Controllers\SitemapController::class, 'index'])->name('sitemap.index');
+Route::get('/sitemap-estaticas.xml', [App\Http\Controllers\SitemapController::class, 'estaticas'])->name('sitemap.estaticas');
+Route::get('/sitemap-productos.xml', [App\Http\Controllers\SitemapController::class, 'productos'])->name('sitemap.productos');
+Route::get('/sitemap-categorias.xml', [App\Http\Controllers\SitemapController::class, 'categorias'])->name('sitemap.categorias');
+Route::get('/sitemap-subcategorias.xml', [App\Http\Controllers\SitemapController::class, 'subcategorias'])->name('sitemap.subcategorias');
+Route::get('/sitemap-familias.xml', [App\Http\Controllers\SitemapController::class, 'familias'])->name('sitemap.familias');
+Route::get('/sitemap-items.xml', [App\Http\Controllers\SitemapController::class, 'items'])->name('sitemap.items');
